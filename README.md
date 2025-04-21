@@ -1,11 +1,7 @@
 # DSA-1 Mini Project - Text Editor
 A tool that allows a user to create and edit documents. The user can interact with the text editor through the Status bar, all the features of the text editor are listed below.
-This text editor is implemented using C language. This project has been built as a part of DSA-1 Mini Project. 
+This text editor is implemented using C language.
 
-# Team
-<a href="https://github.com/ppatil002">112003104 - Pratik Patil</a>
-
-<a href="https://github.com/pt3002">112003114 - Prerna Tulsiani</a>
 
 # Working of Text Editor
 ![working_flowchart](https://user-images.githubusercontent.com/87142754/153125478-1eb791bc-86d5-4066-a12d-4ebee4e0184d.svg)
